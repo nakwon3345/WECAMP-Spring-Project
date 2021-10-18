@@ -8,6 +8,7 @@ public class WecampApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WecampApplication.class, args);
+		//05:04
 	}
 
 }
